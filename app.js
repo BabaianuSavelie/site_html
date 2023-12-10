@@ -1,2 +1,2 @@
-console.log("Hello World de pe local")
+console.log("Hello World de pe remote")
 console.log("Ceva sa schimbat")
